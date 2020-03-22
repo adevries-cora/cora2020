@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incasseren vordering"
+    id="4a8abf03-34a9-420e-9684-638d1c252486">
+  <properties
+      key="CORA-concepttype"
+      value="Werkproces"/>
+</archimate:BusinessProcess>

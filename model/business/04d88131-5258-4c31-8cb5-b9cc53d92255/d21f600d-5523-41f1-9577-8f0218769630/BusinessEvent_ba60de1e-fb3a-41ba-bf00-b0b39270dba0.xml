@@ -1,0 +1,11 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bijwerken bouwkundig element"
+    id="ba60de1e-fb3a-41ba-bf00-b0b39270dba0">
+  <properties
+      key="CORA-concepttype"
+      value="Gebeurtenis"/>
+  <properties
+      key="Toelichting"
+      value="Trigger werkproces"/>
+</archimate:BusinessEvent>

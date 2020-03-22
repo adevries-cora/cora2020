@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geprenotificeerde contractant"
+    id="10fa8e0b-4f17-4a2c-b94b-98c8b2ecb779">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsservice"/>
+  <properties
+      key="Toelichting"
+      value="Output werkproces"/>
+</archimate:BusinessService>

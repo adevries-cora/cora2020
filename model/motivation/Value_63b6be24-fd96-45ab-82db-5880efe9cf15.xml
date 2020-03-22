@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beoordeling opdrachtgever door opdrachtnemer"
+    id="63b6be24-fd96-45ab-82db-5880efe9cf15"
+    documentation="Beoordeling over opdrachtgever door opdrachtnemer (bij afkoop)">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

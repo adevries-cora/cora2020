@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoering gereed"
+    id="73cd3441-4638-4316-8a2a-a3c4675d0103">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsservice"/>
+  <properties
+      key="Toelichting"
+      value="Output werkproces"/>
+</archimate:BusinessService>

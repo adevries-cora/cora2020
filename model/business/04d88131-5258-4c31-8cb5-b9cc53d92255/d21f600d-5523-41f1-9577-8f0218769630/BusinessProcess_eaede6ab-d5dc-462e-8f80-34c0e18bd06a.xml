@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intake reparatieverzoek"
+    id="eaede6ab-d5dc-462e-8f80-34c0e18bd06a">
+  <properties
+      key="CORA-concepttype"
+      value="Werkproces"/>
+</archimate:BusinessProcess>

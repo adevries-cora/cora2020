@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meten klantwaardering"
+    id="de9ffc99-8796-4d1f-87cf-836c9aa1ea26">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+</archimate:BusinessProcess>

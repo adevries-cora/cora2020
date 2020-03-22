@@ -1,0 +1,11 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verzoek betalingsregeling"
+    id="6177e0b6-b95b-4477-89d9-17001ee62c68">
+  <properties
+      key="CORA-concepttype"
+      value="Gebeurtenis"/>
+  <properties
+      key="Toelichting"
+      value="Trigger werkproces"/>
+</archimate:BusinessEvent>

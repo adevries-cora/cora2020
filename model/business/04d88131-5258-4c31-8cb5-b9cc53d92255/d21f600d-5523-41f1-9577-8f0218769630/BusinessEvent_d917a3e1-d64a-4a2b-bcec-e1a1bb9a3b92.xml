@@ -1,0 +1,11 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderhoudsorder ontvangen"
+    id="d917a3e1-d64a-4a2b-bcec-e1a1bb9a3b92">
+  <properties
+      key="CORA-concepttype"
+      value="Gebeurtenis"/>
+  <properties
+      key="Toelichting"
+      value="Trigger werkproces"/>
+</archimate:BusinessEvent>

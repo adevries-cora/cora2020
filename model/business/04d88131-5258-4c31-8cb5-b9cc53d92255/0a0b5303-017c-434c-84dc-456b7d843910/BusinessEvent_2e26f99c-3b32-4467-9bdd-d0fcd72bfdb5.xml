@@ -1,0 +1,11 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verzoek uitzondering"
+    id="2e26f99c-3b32-4467-9bdd-d0fcd72bfdb5">
+  <properties
+      key="CORA-concepttype"
+      value="Gebeurtenis"/>
+  <properties
+      key="Toelichting"
+      value="Trigger werkproces"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren vastgoed"
+    id="96361b49-ad1d-497d-ae8e-b2a8d0dc16fb"
+    documentation="WPnaam wijzigen in Verwerken vastgoedgegevens?">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+</archimate:BusinessProcess>

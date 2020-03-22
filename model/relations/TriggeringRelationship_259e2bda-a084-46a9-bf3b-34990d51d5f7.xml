@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="doorgeven statuswijziging offerte"
+    id="259e2bda-a084-46a9-bf3b-34990d51d5f7">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_8f89c138-cfdd-42da-b5f2-65ec0ad3979b.xml#8f89c138-cfdd-42da-b5f2-65ec0ad3979b"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_622635f8-6625-4767-ac21-69094b7d534b.xml#622635f8-6625-4767-ac21-69094b7d534b"/>
+</archimate:TriggeringRelationship>

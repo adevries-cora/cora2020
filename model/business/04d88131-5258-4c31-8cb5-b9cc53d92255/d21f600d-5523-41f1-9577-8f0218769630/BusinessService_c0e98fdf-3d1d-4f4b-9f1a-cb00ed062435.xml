@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inspectie gereed"
+    id="c0e98fdf-3d1d-4f4b-9f1a-cb00ed062435">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsservice"/>
+  <properties
+      key="Toelichting"
+      value="Output werkproces"/>
+</archimate:BusinessService>

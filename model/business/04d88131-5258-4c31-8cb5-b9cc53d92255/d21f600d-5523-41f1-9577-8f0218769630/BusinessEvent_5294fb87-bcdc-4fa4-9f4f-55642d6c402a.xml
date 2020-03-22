@@ -1,0 +1,11 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inspectie opdracht ontvangen"
+    id="5294fb87-bcdc-4fa4-9f4f-55642d6c402a">
+  <properties
+      key="CORA-concepttype"
+      value="Gebeurtenis"/>
+  <properties
+      key="Toelichting"
+      value="Trigger werkproces"/>
+</archimate:BusinessEvent>

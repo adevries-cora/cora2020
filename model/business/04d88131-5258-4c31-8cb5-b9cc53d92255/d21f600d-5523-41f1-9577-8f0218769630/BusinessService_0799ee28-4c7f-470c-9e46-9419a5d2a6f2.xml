@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantbeoordeling"
+    id="0799ee28-4c7f-470c-9e46-9419a5d2a6f2">
+  <properties
+      key="Toelichting"
+      value="Output werkproces"/>
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsservice"/>
+</archimate:BusinessService>

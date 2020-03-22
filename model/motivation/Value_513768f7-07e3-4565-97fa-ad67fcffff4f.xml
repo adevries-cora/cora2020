@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="% Bezettingsgraad interne dienst"
+    id="513768f7-07e3-4565-97fa-ad67fcffff4f"
+    documentation="% Bezettingsgraad interne dienst">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

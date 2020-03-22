@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afboeking"
+    id="66a4471b-ec2a-46cc-8200-8e1937d3c2f1">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsservice"/>
+  <properties
+      key="Toelichting"
+      value="Output werkproces"/>
+</archimate:BusinessService>

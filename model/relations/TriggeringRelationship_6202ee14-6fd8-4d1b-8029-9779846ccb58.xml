@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="doorgeven factuur voor klant"
+    id="6202ee14-6fd8-4d1b-8029-9779846ccb58">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_f6b96a00-5b7d-4273-8b4d-6f0475e231a0.xml#f6b96a00-5b7d-4273-8b4d-6f0475e231a0"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_ba796c9e-8324-4548-aecd-11c627104d8e.xml#ba796c9e-8324-4548-aecd-11c627104d8e"/>
+</archimate:TriggeringRelationship>

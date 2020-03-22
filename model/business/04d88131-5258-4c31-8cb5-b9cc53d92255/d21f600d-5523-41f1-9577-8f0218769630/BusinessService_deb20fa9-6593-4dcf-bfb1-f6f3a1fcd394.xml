@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financieel gereed"
+    id="deb20fa9-6593-4dcf-bfb1-f6f3a1fcd394">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsservice"/>
+  <properties
+      key="Toelichting"
+      value="Output werkproces"/>
+  <properties/>
+</archimate:BusinessService>

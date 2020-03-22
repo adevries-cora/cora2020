@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bijwerken bouwkundige elementen"
+    id="61f5c630-02fa-4a5e-8483-2a1be0bea6c7">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_14efd252-cfd1-4041-941b-74eed5234079.xml#14efd252-cfd1-4041-941b-74eed5234079"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_e9383635-627f-4f94-9600-079ebb1415bf.xml#e9383635-627f-4f94-9600-079ebb1415bf"/>
+</archimate:TriggeringRelationship>

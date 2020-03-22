@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afhandelen klantvraag"
+    id="47b385e7-1829-4ccf-ae04-6a41c287f766"
+    documentation="WPnaam wijzigen in Intake reparatieverzoek?">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+</archimate:BusinessProcess>

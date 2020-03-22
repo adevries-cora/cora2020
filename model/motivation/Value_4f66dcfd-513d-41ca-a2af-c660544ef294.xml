@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doorlooptijd melding en inspectie"
+    id="4f66dcfd-513d-41ca-a2af-c660544ef294"
+    documentation="Doorlooptijd tussen ontvangst melding en uitgevoerde inspectie">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

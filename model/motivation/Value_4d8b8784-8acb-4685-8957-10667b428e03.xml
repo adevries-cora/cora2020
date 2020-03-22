@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="% Facturen binnen normtijden ontvangen"
+    id="4d8b8784-8acb-4685-8957-10667b428e03"
+    documentation="% Facturen dat na technische gereed melding door opdrachtgever binnen normtijden is ontvangen">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

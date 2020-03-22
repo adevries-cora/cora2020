@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="% Bezettingsgraad conform contractafspraken"
+    id="0d46f0b4-0602-4003-ae76-b4eac64a3b10"
+    documentation="% Bezettingsgraad externe aannemers conform contractafspraken">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

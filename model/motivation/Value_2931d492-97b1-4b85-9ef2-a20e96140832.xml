@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitkomsten werkplekinspecties"
+    id="2931d492-97b1-4b85-9ef2-a20e96140832"
+    documentation="Uitkomsten werkplekinspecties">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

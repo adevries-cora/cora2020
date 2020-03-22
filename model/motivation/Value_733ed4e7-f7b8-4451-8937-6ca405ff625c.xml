@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doorlooptijd melding en geplande afspraak"
+    id="733ed4e7-f7b8-4451-8937-6ca405ff625c"
+    documentation="Doorlooptijd melding en geplande afspraak eigen dienst / aannemer">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

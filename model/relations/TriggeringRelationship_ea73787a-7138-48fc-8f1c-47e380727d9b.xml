@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="doorgeven inspectierapport"
+    id="ea73787a-7138-48fc-8f1c-47e380727d9b">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_14b28176-5aa4-4c7e-927c-0115bab820a6.xml#14b28176-5aa4-4c7e-927c-0115bab820a6"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_a5c743c8-9eb8-4ddc-b2dd-e6695e1d2330.xml#a5c743c8-9eb8-4ddc-b2dd-e6695e1d2330"/>
+</archimate:TriggeringRelationship>

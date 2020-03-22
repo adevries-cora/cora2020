@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doorlooptijd melding en gereedmelding"
+    id="a70d69ad-01dc-4abb-a359-45c2df27ce14"
+    documentation="Doorlooptijd tussen meldingen gereed gemelde reparatieopdracht">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

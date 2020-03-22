@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workload interne diensten en aannemers"
+    id="13c8c6f1-d561-4d92-98d6-0146d61849c6"
+    documentation="Onderhanden  workload interne diensten en aannemers">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

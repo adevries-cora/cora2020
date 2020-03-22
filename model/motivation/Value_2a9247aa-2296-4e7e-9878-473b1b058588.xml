@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doorlooptijd aanbieden tot acceptatie opdracht"
+    id="2a9247aa-2296-4e7e-9878-473b1b058588"
+    documentation="Doorlooptijd aanbieden opdracht tot acceptatie opdracht door aannemer">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

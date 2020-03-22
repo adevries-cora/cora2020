@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="% klachten dienstverlening"
+    id="f73b4b08-0a48-4cd9-9ffb-7bbe70711754"
+    documentation="% klachten over dienstverlening">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voeren crediteurenbeheer"
+    id="4d10d255-128a-4387-ae91-201785760ad8"
+    documentation="WPnaam wijzigen in Verwerken factuur?">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+</archimate:BusinessProcess>

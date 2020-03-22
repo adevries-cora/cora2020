@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="doorgeven factuur voor uitvoer onderhoudsorder"
+    id="a7dd67c7-6f02-44f5-ada5-206a4a21be8f">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_122dfead-e1c0-4de1-916a-1a07c0cc231c.xml#122dfead-e1c0-4de1-916a-1a07c0cc231c"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_2ad6d3cb-1f0d-4828-bc34-f9cbbe57aedd.xml#2ad6d3cb-1f0d-4828-bc34-f9cbbe57aedd"/>
+</archimate:TriggeringRelationship>

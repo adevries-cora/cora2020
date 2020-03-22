@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="% Tijdige betaling"
+    id="548aa1ac-5f01-4f16-8133-64af47cb8891"
+    documentation="% Tijdige betaling conform de algemene  voorwaarden van opdrachtgever">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

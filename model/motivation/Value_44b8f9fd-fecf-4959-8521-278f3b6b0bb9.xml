@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="% uitgevoerd binnen normtijd door aannemer"
+    id="44b8f9fd-fecf-4959-8521-278f3b6b0bb9"
+    documentation="% opdrachten uitgevoerd binnen normtijden door aannemer">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

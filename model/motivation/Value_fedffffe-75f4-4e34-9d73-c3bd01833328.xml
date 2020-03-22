@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doorlooptijd inkooporder en inplannen afspraak"
+    id="fedffffe-75f4-4e34-9d73-c3bd01833328"
+    documentation="Doorlooptijd van uitgaande inkooporder en inplannen afspraak">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

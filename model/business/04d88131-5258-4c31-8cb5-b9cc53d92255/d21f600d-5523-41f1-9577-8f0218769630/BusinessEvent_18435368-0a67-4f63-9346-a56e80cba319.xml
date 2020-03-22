@@ -1,0 +1,12 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Melding klant"
+    id="18435368-0a67-4f63-9346-a56e80cba319"
+    documentation="Reparatieverzoek klant">
+  <properties
+      key="CORA-concepttype"
+      value="Gebeurtenis"/>
+  <properties
+      key="Toelichting"
+      value="Trigger werkproces"/>
+</archimate:BusinessEvent>

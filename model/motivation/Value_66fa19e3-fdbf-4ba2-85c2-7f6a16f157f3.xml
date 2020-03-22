@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="% binnen planning geleverd"
+    id="66fa19e3-fdbf-4ba2-85c2-7f6a16f157f3"
+    documentation="Werkelijke opleverdatum versus vooraf verstrekte opleverdatum">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

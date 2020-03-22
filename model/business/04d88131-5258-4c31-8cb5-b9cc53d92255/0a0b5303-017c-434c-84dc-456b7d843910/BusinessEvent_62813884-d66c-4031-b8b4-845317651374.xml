@@ -1,0 +1,12 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Factuur verzonden"
+    id="62813884-d66c-4031-b8b4-845317651374"
+    documentation="Hier deze stap beschrijven">
+  <properties
+      key="Toelichting"
+      value="Trigger bedrijfsproces"/>
+  <properties
+      key="CORA-concepttype"
+      value="Gebeurtenis"/>
+</archimate:BusinessEvent>

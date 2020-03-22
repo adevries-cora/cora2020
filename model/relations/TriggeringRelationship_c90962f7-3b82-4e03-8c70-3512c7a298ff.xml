@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bevestigen afspraak"
+    id="c90962f7-3b82-4e03-8c70-3512c7a298ff">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_930c6b2a-9023-413d-991e-a7871e8cf5d8.xml#930c6b2a-9023-413d-991e-a7871e8cf5d8"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_42d2957c-9d5f-4476-b655-e043bbb4d88a.xml#42d2957c-9d5f-4476-b655-e043bbb4d88a"/>
+</archimate:TriggeringRelationship>
